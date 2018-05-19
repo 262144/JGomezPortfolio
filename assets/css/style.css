@@ -282,3 +282,7 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+.italicized {
+  font-style: italic;
+}
